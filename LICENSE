@@ -1,0 +1,106 @@
+Clavio - End-User Licence Agreement
+
+Copyright (c) 2026 Andrey Glushkov. All rights reserved.
+
+Clavio (the "Software") is licensed, not sold. By installing, activating or using it you agree to these
+terms. If you do not agree, do not install or use the Software.
+
+1. What you may do
+
+   You may install and use the Software, free of charge, on your own devices:
+   (a) for personal use - practising, playing, composing, recording for yourself; and
+   (b) for teaching - using it yourself in your own lessons, including showing it to your students and
+       letting them use it on your device during a lesson.
+   You may make backup copies of the Software and of your own data.
+   The Software works only after it has been activated on your device (see section 4). Activation is
+   currently free; the author may offer additional paid features or plans in the future, which will be
+   described before you buy them.
+
+2. What you may not do
+
+   Unless the author gives you written permission, you may not:
+   (a) copy, sell, rent, lease, lend, sub-license or redistribute the Software, or put it on a website,
+       app store, disc or package collection for others to download. You may share a link to the
+       official download page instead;
+   (b) modify the Software, make derivative works of it, or remove or change any copyright, licence or
+       trademark notice in it;
+   (c) reverse engineer, decompile or disassemble the Software, or try to extract its source code,
+       except to the extent that the law of your country allows this despite this restriction (and then
+       only after asking the author for the information you need), or as section 3 allows;
+   (d) circumvent, disable or tamper with the activation, a licence key, the update check or any other
+       technical protection, or use a licence issued for another device;
+   (e) use the Software commercially, or in an organisation (school, music academy, company, studio)
+       installing it for many users, or offer it as a service. Please contact the author - such use is
+       usually possible under a separate agreement.
+
+3. Third-party components
+
+   The Software contains components made by others (listed in the file THIRD_PARTY_NOTICES.md, in the
+   "licenses" folder, and in the app under Help > Licences). Each of them is licensed under its own
+   terms, which apply to that component instead of this agreement. Nothing in this agreement limits
+   the rights those licences give you. In particular, for components under the GNU Lesser General Public
+   Licence you may replace the library with your own modified version and reverse engineer the Software
+   as far as needed to debug such a change, as that licence requires.
+   Optional add-ons that you install yourself (for example VST3 plugin support, which uses software
+   licensed under the GPL-3.0) are separate software under their own licence.
+
+4. Activation and your data
+
+   Activation: to use the Software it must be activated online once per device. Activation sends the
+   author's activation service an anonymous identifier of your device (a one-way hash, not the device's
+   real serial numbers), the app version, the name of your operating system and a random installation
+   number. The licence you receive is bound to that device and is renewed automatically from time to time;
+   it keeps working offline until it expires. The author may refuse or withdraw a licence that is being
+   misused (for example shared between devices or obtained by tampering).
+
+   The pieces, recordings, settings and other files you create or import stay yours. The Software only
+   reads and writes them on your device. Other features that connect to the internet (checking for
+   updates, downloading soundfonts or scores you ask for, optional crash reports and usage statistics)
+   are described in the app; the optional ones are off until you switch them on. Personal data is
+   processed in line with the UAE Federal Decree-Law No. 45 of 2021 on the Protection of Personal Data
+   and the privacy notice shown in the app. You are responsible for having the right to use any music,
+   scores or soundfonts you load into the Software.
+
+5. Ownership
+
+   The Software, its name and its icon belong to the author and are protected by copyright, including
+   under the UAE Federal Decree-Law No. 38 of 2021 on Copyrights and Neighbouring Rights and international
+   treaties. This agreement gives you a right to use the Software; it does not transfer ownership of
+   anything.
+
+6. No warranty
+
+   The Software is provided "as is", without warranty of any kind, express or implied, including
+   fitness for a particular purpose, merchantability, uninterrupted or error-free operation, or that it
+   suits your keyboard, computer or audio equipment. You use it at your own risk. Keep the volume at a safe
+   level when using headphones.
+
+7. Limitation of liability
+
+   To the extent the law allows, the author is not liable for any indirect, incidental, special or
+   consequential damages, or for lost data, lost profits or damage to equipment, arising from the use of or
+   inability to use the Software, even if the author was told this could happen. Where liability cannot be
+   excluded by law (for example for intent or gross negligence, or for injury), it is limited to the
+   minimum the law requires. Nothing in this agreement takes away rights you have as a consumer that cannot be
+   waived.
+
+8. Termination
+
+   This agreement ends automatically if you break it. The author may also end it with notice if you keep
+   breaking it after being asked to stop. You may end it at any time by uninstalling the Software and
+   deleting all copies. When it ends you must stop using the Software and delete your copies; sections 2, 5,
+   6, 7 and 10 stay in force.
+
+9. Changes
+
+   New versions of the Software may come with new terms; you will see them before you install the update.
+   If you do not accept them, keep using the version you have under the terms it came with.
+
+10. General
+
+    If a part of this agreement is not valid, the rest stays in force. This agreement is governed by the
+    laws of the Emirate of Dubai and the applicable federal laws of the United Arab Emirates. The courts of
+    the Emirate of Dubai have exclusive jurisdiction, except where mandatory consumer-protection law of
+    the country you live in gives you the right to bring a claim in your own courts. This agreement is
+    written in English; if it is translated, the English text prevails.
+    Contact: support@kaidadrg.xyz.

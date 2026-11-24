@@ -59,7 +59,7 @@ A supporter licence key is checked on your own computer (an offline signature ch
 
 - *Settings > Privacy* turns each kind off immediately; events that were waiting to be sent are discarded.
 - If a build has no reporting service configured, nothing is sent whatever you choose.
-- The code that does this is open to read: `pianoapp/telemetry.py`.
+- *Settings > Privacy* in the app lists exactly what is and is not sent.
 
 Personal data is handled in line with the UAE Federal Decree-Law No. 45 of 2021 on the Protection of Personal Data.
 Contact: support@kaidadrg.xyz
